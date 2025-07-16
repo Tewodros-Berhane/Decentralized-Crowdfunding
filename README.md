@@ -43,10 +43,10 @@ Deployed locally on Hardhat for development.
 ![Home Page](screenshots/home.png)
 
 ### 📝 Create Campaign  
-![Create Campaign](screenshots/create.png)
+![Create Campaign](screenshots/create.jpg)
 
 ### 📄 Campaign Details  
-![Campaign Details](screenshots/contribute1.png)
+![Campaign Details](screenshots/contribute1.jpg)
 
 ---
 
